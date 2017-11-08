@@ -1,0 +1,5 @@
+﻿  CarteIdentite.cpp
+c:\users\taxouck\documents\visual studio 2015\projects\carteidentite\carteidentite\carteidentite.cpp(22): warning C4700: uninitialized local variable 'action' used
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CarteIdentite.vcxproj -> C:\Users\Taxouck\Documents\Visual Studio 2015\Projects\CarteIdentite\Debug\CarteIdentite.exe
+  CarteIdentite.vcxproj -> C:\Users\Taxouck\Documents\Visual Studio 2015\Projects\CarteIdentite\Debug\CarteIdentite.pdb (Partial PDB)
